@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "postgres": "postgres://postgres:@localhost:5432/FeathersJSTest",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "4I8HQP9xWI9bQ9snPAAGgIDy4M97wndVA6Wjroi0VVT0WPPrfZxNth2Ukidenjj/SpuLZ4CVhra2L17wL6E53w=="
+    },
+    "local": {}
+  }
+}
