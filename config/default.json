@@ -6,8 +6,9 @@
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "35z1ns0/C3tZnyDYcFdiwo11gsyuYy7PDyRAG+TOGNjHIO90BI2eBN6qXwO4PAxEU4YQTJOmQFLC2c9Ts5xYZQ=="
+      "secret": "yDH0ploFMQJHAbAm5YtdCe+k/4wgUb0ROpYVli/ixAcT6dgr0TCDzodgGx65x/WY8qQ5q6TUwBxQNJfGI9SLqA=="
     },
-    "local": {}
+    "local": {},
+    "successRedirect": "/chat.html"
   }
 }
