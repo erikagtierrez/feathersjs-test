@@ -6,7 +6,7 @@
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "4I8HQP9xWI9bQ9snPAAGgIDy4M97wndVA6Wjroi0VVT0WPPrfZxNth2Ukidenjj/SpuLZ4CVhra2L17wL6E53w=="
+      "secret": "35z1ns0/C3tZnyDYcFdiwo11gsyuYy7PDyRAG+TOGNjHIO90BI2eBN6qXwO4PAxEU4YQTJOmQFLC2c9Ts5xYZQ=="
     },
     "local": {}
   }
